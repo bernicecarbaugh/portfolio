@@ -1,6 +1,13 @@
-img.mug {
-  float: left;
-  margin: 5x;
-  padding: 1px;
+#mugshot {
+  height: 200px;
+  border-radius: 6px;
+}
+
+img.rightsidebar {
   width: 200px;
+  border-radius: 6px;
+}
+
+div.jumbotronx {
+  min-height: 200px;
 }

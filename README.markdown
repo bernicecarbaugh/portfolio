@@ -6,7 +6,7 @@
 This site is being developed during my Epicodus Intro to Programming class to practice what I'm learning, and will be continually added to and to eventually become my real portfolio site. 
 
 ## Setup / Installation Requirements
-Open index.html on your browser
+[Click here](http://bernicecarbaugh.github.io/portfolio/) to view this page on your browser.
 
 ## Known Bugs
 None
